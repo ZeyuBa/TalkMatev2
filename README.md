@@ -1,2 +1,2 @@
 # TalkMatev2
-chat as real human
+chat as a real human
